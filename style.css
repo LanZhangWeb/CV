@@ -105,7 +105,6 @@ p {
     margin: 10px 0 50px;
 }
 
-
 .contact-list-item span, .skill-list-item span {
     display: block;
     padding: 6px 0 6px 30px;
@@ -149,8 +148,7 @@ p {
     list-style-type: none;
     padding-top: 20px;
     padding-bottom: 20px;
-    padding-left: calc((100% - 200px)/2)
-/*    padding: 20px 0 20px 75px;*/
+    padding-left: calc((100% - 200px) / 2)
 }
 
 .contact-container {
@@ -192,7 +190,7 @@ p {
     opacity: 0.7;
 }
 
-    /* Right */
+/* Right */
 
 .main-content-wrapper {
     flex: 1 1 70%;
@@ -279,7 +277,6 @@ p {
     grid-template-rows: 1fr;
     padding-top: 20px;
 }
-
 
 .aboutme-container h3 {
     background: url("img/me.png") 0 0 no-repeat;
