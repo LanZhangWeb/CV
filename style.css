@@ -68,7 +68,7 @@ p {
 
 /* Left */
 .sidebar-wrapper {
-    flex: 1 0 30%;
+    flex: 1 1 30%;
 }
 
 .sidebar-content {
@@ -91,7 +91,7 @@ p {
     width: 200px;
     height: 196px;
     border-radius: 50%;
-    margin: 40px 20px 30px 20px;
+    margin: 110px 20px 30px 20px;
 }
 
 .profile-container h1 {
@@ -102,7 +102,7 @@ p {
 }
 
 .profile-container p {
-    margin: 10px 0 50px;
+    margin: 10px 0 60px;
 }
 
 .contact-list-item span, .skill-list-item span {
@@ -137,7 +137,7 @@ p {
 
 .skill-container {
     background: #37424b;
-    padding: 50px 20px 30px 20px;
+    padding: 70px 20px 30px 20px;
 }
 
 .skill-container h1 {
@@ -153,7 +153,7 @@ p {
 
 .contact-container {
     background: #37424b;
-    padding: 10px 20px 20px 20px;
+    padding: 30px 20px 20px 20px;
 }
 
 .link-content-github {
@@ -174,7 +174,7 @@ p {
 
 .book-container {
     background: #37424b;
-    padding: 10px 20px 20px 20px;
+    padding: 30px 20px 20px 20px;
 }
 
 .book-cover {
