@@ -64,7 +64,7 @@ li::before {
 
 .wrapper {
     background: #fff;
-    max-width: 720px;
+    max-width: 760px;
     padding: 2rem;
     margin: 1.25rem auto;
     box-shadow: -1px 5px 20px -5px rgba(0, 0, 0, 0.6);
@@ -90,14 +90,14 @@ address {
 
 .contact-phone, .contact-github, .contact-mail {
     display: inline-block;
-    margin-left: 1.875rem;
+    margin-left: 2.5rem;
     position: relative;
 }
 
 .contact-phone::before, .contact-github::before, .contact-mail::before {
     content: '\2022';
     position: absolute;
-    left: -1.125rem;
+    left: -1.5rem;
     color: #b8b8b8;
 }
 
@@ -124,10 +124,10 @@ address {
     display: inline-block;
 }
 
-.project-description {
+.project-description, .project-time {
     color: #666;
     font-family: Roboto, Arial, sans-serif;
-    margin-left: 1rem;
+    margin-left: 2rem;
     margin-bottom: 0.25rem;
     font-size: 1rem;
     font-weight: 400;
